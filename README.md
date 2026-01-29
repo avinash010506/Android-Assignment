@@ -1,3 +1,8 @@
+## Live Demo
+
+🚀 **Deployed Application**: [https://androidprojectt.netlify.app/)
+
+
 # 📱 Passwordless OTP Authentication – Android (Jetpack Compose)
 
 ## 📌 Project Overview
@@ -168,3 +173,4 @@ This ensures:
 
 ## ✅ Conclusion
 This project demonstrates a clean, scalable, and modern Android authentication flow using **Jetpack Compose**, **ViewModel-based architecture**, and **proper state management**, aligning with best practices.
+
