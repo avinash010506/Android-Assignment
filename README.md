@@ -1,7 +1,3 @@
-## Live Demo
-
-🚀 **Deployed Application**: [https://androidprojectt.netlify.app/)
-
 
 # 📱 Passwordless OTP Authentication – Android (Jetpack Compose)
 
